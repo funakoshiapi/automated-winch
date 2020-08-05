@@ -1,6 +1,9 @@
 # automated-winch
 Embedded System Project For Under Water Exploration 
 
+![tag](/tag.png)
+
+
 # Objective
 The team has been given four base objectives, each is fairly complex and comes with its own list of more specific requirements. They will require time and understanding to complete them, however, the base objectives are straightforward. For the first objective, the team is tasked with designing a power distribution board that can supply power to every component on the craft. This includes powering the BlueRobotics Electronic Speed Controller and its associated BlueRobotics Thruster, the PixHawk, the Raspberry Pi and the Trac Deckhand 40 Winch. These components have varying power requirements meaning that the team will need to use circuitry that can distribute and manage power to each device correctly.
 
@@ -10,5 +13,6 @@ Moving on to the third objective, the controller. This is the link between the c
 
 Finally, the fourth objective is a more simple objective. The team is asked to replace the rope that comes standard on the Trac Deckhand 40 Winch with a data cable that is capable of meeting the communication requirements as well as being strong enough to support its own weight as well as the sensors weight.
 
+![box](/box.png)
 
 ![system](/system.png)
