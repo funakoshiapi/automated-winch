@@ -1,4 +1,4 @@
-![TERMINAL](/TERMINAL.png)
+
 
 
 
@@ -18,5 +18,9 @@ Moving on to the third objective, the controller. This is the link between the c
 Finally, the fourth objective is a more simple objective. The team is asked to replace the rope that comes standard on the Trac Deckhand 40 Winch with a data cable that is capable of meeting the communication requirements as well as being strong enough to support its own weight as well as the sensors weight.
 
 ![box](/box.jpg)
+
+![UI](/UI.png)
+
+![UI2](/UI2.png)
 
 ![system](/system.png)
